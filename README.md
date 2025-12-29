@@ -29,4 +29,4 @@ No additional packages are needed.
 3. Run
 
 ## 🖼 Application Screenshot
-![Application Screenshot](screenshot.png)
+![Application Screenshot](Python-Quiz-Game/screenshot.png)
